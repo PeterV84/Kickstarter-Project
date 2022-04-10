@@ -16,10 +16,12 @@ Data Bootcamp Kickstarter Project
 
 ## Challenges of the analysis
 
-### Pivot tables were very valuable to assess the category statistics and multiple outcomes. Using these pivot tables allowed for easier transformation into charts and graphs to visualize the data in a different format. My biggest challenge was converting the pivot tables into charts and graphs. I am still learning how to manipulate the data and create a better visualization for the “stakeholder”.
+### Pivot tables were very valuable to assess the category statistics and multiple outcomes. Using these pivot tables allowed for easier transformation into charts and graphs to visualize the data in a different format. My biggest challenge was converting the pivot tables into charts and graphs. I am still learning how to manipulate the data and create a better visualization for the “stakeholder”. Below is an example of the Outcome of my chart not matching the proposed outcome in the assignment.
 
+## Outcomes vs Goals Project assignment
 ![Outcomes Copy](https://user-images.githubusercontent.com/100393032/162640486-80c883f0-6c67-42bd-88bc-9cd3b3995636.png)
 
+## Outcomes vs Goals my analysis
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100393032/162640463-0cf662ee-35e7-4bfe-9489-78d256b28832.png)
 
 
