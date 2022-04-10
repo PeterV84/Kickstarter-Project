@@ -34,4 +34,4 @@ Data Bootcamp Kickstarter Project
 ### What are some other possible tables and/or graphs that we could create?
 -[x]We could separate the amount of backers and compare that to the amount of pledged successes. We could also dig deeper into what did the best for each separate country as factors such as cultural impact and audience could play into what is a successful kickstarter in each country.
 
-![image](https://user-images.githubusercontent.com/100393032/162640428-450bcf15-e162-4a98-9719-aad0efdada79.png)
+
