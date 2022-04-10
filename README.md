@@ -18,7 +18,7 @@ Data Bootcamp Kickstarter Project
 
 ### Pivot tables were very valuable to assess the category statistics and multiple outcomes. Using these pivot tables allowed for easier transformation into charts and graphs to visualize the data in a different format. My biggest challenge was converting the pivot tables into charts and graphs. I am still learning how to manipulate the data and create a better visualization for the “stakeholder”.
 
-![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100393032/162640454-9c4c5a65-3feb-4e8c-83e5-9d170f3c133d.png)
+![Outcomes Copy](https://user-images.githubusercontent.com/100393032/162640486-80c883f0-6c67-42bd-88bc-9cd3b3995636.png)
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100393032/162640463-0cf662ee-35e7-4bfe-9489-78d256b28832.png)
 
